@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'PTRootUIWebMedium';
-	src: local('PTRootUIWebMedium'), url('shit/PT_Root_UI_Medium.woff') format('woff');
+	src: local('PTRootUIWebMedium'), url('PT_Root_UI_Medium.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
